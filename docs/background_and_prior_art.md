@@ -2,6 +2,7 @@
 
 ---
 
+
 ### `Background`
 
 In current agricultural practices, pesticide application is largely carried out using uniform spraying methods across entire fields. This approach does not consider whether all plants require treatment, leading to excessive use of chemicals. As a result, healthy plants are exposed unnecessarily, soil quality degrades over time, and farming costs increase. Farmers are also exposed to health risks due to repeated contact with chemical pesticides.
