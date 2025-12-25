@@ -4,7 +4,7 @@
 
 ## Objective of Round 2
 
-The goal of Round 2 is to expand the current working prototype into a complete, end-to-end farming support system. While the initial phase focuses on selective pesticide spraying using a mobile platform, the next round aims to provide farmers with a full software ecosystem that includes monitoring, control, and data-driven decision support.
+The goal of Round 2 is to expands  the current working prototype into a complete, end-to-end farming support system. While the initial phase focuses on selective pesticide spraying using a mobile platform, the next round aims to provide farmers with a full software ecosystem that includes monitoring, control, and data-driven decision support.
 
 ---
 
