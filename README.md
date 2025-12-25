@@ -53,3 +53,50 @@ Detailed architecture and workflow are available in:
 
 ## Project Structure
 
+intelligent-pesticide-sprinkler/
+├── README.md
+├── README_Flow.md
+├── README_Round2.md
+├── docs/
+├── prototype/
+│ ├── hardware/
+│ ├── software/
+│ └── ml/
+├── mobile_app/
+├── backend/
+└── submission.md
+
+
+---
+
+## Current Status
+
+- Hardware prototype designed and assembled  
+- Core system logic implemented  
+- Selective spraying mechanism validated  
+- Monitoring and expansion planned for next round  
+
+---
+
+## Future Scope (Next Round)
+
+- Complete mobile application for farmers  
+- Backend server for data storage and analytics  
+- Live system monitoring and alerts  
+- Extended soil and crop analysis  
+- Multi-field and multi-device support  
+
+Detailed plans are documented in `README_Round2.md`.
+
+---
+
+## Team
+
+This project is developed as part of a hackathon initiative with a focus on practical, affordable, and sustainable agricultural solutions.
+
+---
+
+## License
+
+This project is shared for academic and hackathon purposes. Licensing details can be updated as required.
+
