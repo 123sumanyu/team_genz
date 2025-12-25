@@ -14,7 +14,7 @@ The solution is implemented as a mobile system capable of navigating row-based f
 
 ## Problem Statement
 
-In traditional farming practices, pesticides are commonly sprayed across entire fields without identifying which plants actually require treatment. This leads to excessive chemical usage, higher costs, environmental damage, and long-term soil degradation. Manual inspection of crops is time-consuming and often fails to detect early-stage infections, especially in large farms.
+In traditional farming practices, pesticides are commonly sprayed across entire fields without identifying which plantsactually require treatment. This leads to excessive chemical usage, higher costs, environmental damage, and long-term soil degradation. Manual inspection of crops is time-consuming and often fails to detect early-stage infections, especially in large farms.
 
 Existing spraying systems focus more on coverage than precision and are often expensive, complex, and unsuitable for small and medium-scale farmers. There is a need for a cost-effective and practical solution that enables selective treatment, reduces chemical wastage, and supports sustainable farming.
 
