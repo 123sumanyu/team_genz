@@ -22,8 +22,9 @@ The primary objective of this project is to develop a pesticide application syst
 
 Another objective is to support early identification and appropriate treatment of plant infections, helping farmers take timely action before diseases spread further. By applying the right amount of treatment at the right place, the system seeks to improve overall farm productivity.
 
-The project also aims to promote sustainable farming by incorporating soil condition monitoring, allowing farmers to maintain soil health while managing crop diseases.
+The project also seeks to advance sustainable farming practices through the implementation of soil condition monitoring, enabling farmers to preserve soil health while effectively managing crop diseases
 
 Cost-effectiveness and ease of use are key objectives of the system. The project is designed to be affordable, easy to operate, and suitable for real-world farming environments without requiring specialized skills.
 
 Overall, the objective is to provide farmers with a reliable, practical, and farmer-friendly solution that improves efficiency, reduces effort, and supports long-term agricultural sustainability.
+
