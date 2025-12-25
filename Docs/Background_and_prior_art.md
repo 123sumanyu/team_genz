@@ -7,7 +7,7 @@
 
 In current agricultural practices, pesticide application is largely carried out using uniform spraying methods across entire fields. This approach does not consider whether all plants require treatment, leading to excessive use of chemicals. As a result, healthy plants are exposed unnecessarily, soil quality degrades over time, and farming costs increase. Farmers are also exposed to health risks due to repeated contact with chemical pesticides.
 
-Crop inspection is mostly performed manually, which becomes difficult and inefficient in large or row-based farms. Visual inspection is time-consuming and often fails to identify infections at an early stage, allowing diseases to spread before corrective action is taken. This delay directly affects crop yield and overall farm productivity.
+Crop inspection is mostly performed manually, which becomes difficult and inefficient in large or row-based farms. Visual inspection is time-consuming and often fails to identify infections at an early stage, allowing diseases to spread before corrective action is taken. This delay directly affects crop yield and overall farm production.
 
 Another limitation of traditional practices is the lack of real-time crop and soil feedback. Farmers typically make decisions based on past experience rather than live field data, which makes pesticide application reactive instead of preventive. This limits the ability to manage crop health efficiently and sustainably.
 
@@ -34,3 +34,4 @@ Other prior systems focus on automation or remote-controlled spraying mechanisms
 ### `Identified Gaps`
 
 Based on the review of existing agricultural practices and available pesticide spraying systems, several key gaps can be identified. Most current methods rely on uniform pesticide spraying without considering the actual condition or severity of infection in individual plants, which leads to unnecessary chemical usage on healthy crops. There is also limited focus on monitoring soil health during the spraying process, even though soil quality directly affects crop growth and long-term farm productivity. In addition, many existing solutions are costly, complex to operate, and difficult to maintain, making them impractical for small and medium-scale farmers. The absence of farmer-oriented monitoring and feedback further reduces their effectiveness, as farmers do not receive timely or actionable information to support better decision-making. These gaps highlight the need for a more precise, affordable, and farmer-friendly pesticide application approach that promotes selective treatment and sustainable farming practices.
+
