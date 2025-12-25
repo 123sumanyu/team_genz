@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project presents a smart and practical approach to pesticide application in agriculture. The system is designed to reduce unnecessary chemical usage by applying pesticides only where required, instead of spraying entire fields uniformly. It focuses on selective treatment, better resource utilization, and improved support for farmers in managing crop health.
+This project presents a smart and practical approach to pesticide application in agriculture. The system is designed to reduced unnecessary chemical usage by applying pesticides only where required, instead of spraying entire fields uniformly. It focuses on selective treatment, better resource utilization, and improved support for farmers in managing crop health.
 
 The solution is implemented as a mobile system capable of navigating row-based farms, monitoring crop and soil conditions, and performing controlled pesticide spraying based on plant health observations.
 
