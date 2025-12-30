@@ -38,7 +38,7 @@ This layer ensures that pesticide application is controlled, localized, and effi
 
 The system includes a communication module that transfers operational data to a farmer-facing interface. Information such as crop condition status, soil readings, and system activity is transmitted for monitoring purposes.
 
-This layer enables farmers to stay informed about field conditions without being physically present, supporting better planning and timely intervention.
+This layer enables farmers to stay informed about field conditions without being physically present, supporting better planning and right-time corrective action.
 
 ---
 
