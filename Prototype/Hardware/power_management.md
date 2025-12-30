@@ -12,7 +12,7 @@ The architecture follows a centralized battery-based power supply with regulated
 
 ### `Power Source`
 
-The system is powered using a rechargeable 12V battery. This battery serves as the primary power source for motion, control, sensing, and spraying components. A battery-based design eliminates dependency on external power sources and allows the system to operate freely in agricultural fields.
+The system is powered using a rechargeable 12V battery(power source). This battery serves as the primary power source for motion, control, sensing, and spraying components. A battery-based design eliminates dependency on external power sources and allows the system to operate freely in agricultural fields.
 
 The battery capacity is selected to support continuous operation for extended periods while maintaining a compact and lightweight form factor.
 
