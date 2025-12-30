@@ -39,7 +39,7 @@ Common grounding is maintained across all components to ensure stable signal ref
 
 ### `Power Control and Safety`
 
-Relays and motor drivers are used to control the flow of power to high-current components such as pumping motors. This ensures that power is supplied only when required, reducing unnecessary energy consumption.
+Relays and motor drivers are used to control the flow of power to high-current components such as pumping motors. This ensures that power is supplied only when needed, reducing unnecessary energy consumption.
 
 Basic safety measures such as short-circuit protection, secure connections, and controlled switching are considered to prevent damage during operation. Components are mounted securely to avoid loose connections caused by vibration or movement.
 
