@@ -20,7 +20,7 @@ Finally, the inclusion of farmer-oriented monitoring and status updates adds pra
 
 The primary objective of this project is to develop a pesticide application system that reduces chemical wastage by treating only infected plants instead of spraying entire fields. This approach aims to improve crop health while minimizing environmental impact.
 
-Another objective is to support early identification and appropriate treatment of plant infections, helping farmers take timely action before diseases spread further. By applying the right amount of treatment at the right place, the system seeks to improve overall farm productivity.
+Another objective is to support early identification and appropriate treatment of plant infections, assisting farmers take timely action before diseases spread further. By applying the right amount of treatment at the right place, the system seeks to improve overall farm productivity.
 
 The project also seeks to advance sustainable farming practices through the implementation of soil condition monitoring, enabling farmers to preserve soil health while effectively managing crop diseases
 
