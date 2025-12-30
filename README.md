@@ -52,20 +52,20 @@ Detailed architecture and workflow are available in:
 ---
 
 ## Project Structure
-
+```markdown
 intelligent-pesticide-sprinkler/
 ├── README.md
 ├── README_Flow.md
 ├── README_Round2.md
 ├── docs/
 ├── prototype/
-│ ├── hardware/
-│ ├── software/
-│ └── ml/
+│   ├── hardware/
+│   ├── software/
+│   └── ml/
 ├── mobile_app/
 ├── backend/
 └── submission.md
-
+```
 
 ---
 
