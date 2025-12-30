@@ -92,4 +92,4 @@
 
 ### `Notes`
 
-All components are selected with affordability, availability, and ease of replacement in mind. The system is designed to be assembled using commonly available parts to ensure practicality for real-world agricultural use.
+All components are selected with affordability, availability, and ease of replacement in mind. The system is designed to be assembled using commonly available parts to ensure practicality for real-world agricultural use .
