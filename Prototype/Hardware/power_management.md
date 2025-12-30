@@ -4,7 +4,7 @@
 
 ### `Overview`
 
-The power management system is designed to provide stable and efficient power to all components while ensuring safety, portability, and ease of maintenance. Since the system operates in outdoor farm environments, reliable power distribution is critical for uninterrupted operation.
+The power management system is designed to provide stable and efficient power to all components while ensuring safety, portability, and ease of maintenance. Since the system operates in outdoor farm environments, reliable power distribution is critical for continuous operation.
 
 The architecture follows a centralized battery-based power supply with regulated outputs for different hardware modules.
 
