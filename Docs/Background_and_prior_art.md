@@ -7,7 +7,7 @@
 
 In current agricultural practices, pesticide application is largely carried out using uniform spraying methods across entire fields. This approach does not consider whether all plants require treatment, leading to excessive use of chemicals. As a result, healthy plants are exposed unnecessarily, soil quality degrades over time, and farming costs increase. Farmers are also exposed to health risks due to repeated contact with chemical pesticides.
 
-Crop inspection is mostly performed manually, which becomes difficult and inefficient in large or row-based farms. Visual inspection is time-consuming and often fails to identify infections at an early stage, allowing diseases to spread before corrective action is taken. This delay directly affects crop yield and overall farm production.
+Crop inspection is mostly done manually, which becomes difficult and inefficient in large or row-based farms. Visual inspection is time-consuming and often fails to identify infections at an early stage, allowing diseases to spread before corrective action is taken. This delay directly affects crop yield and overall farm production.
 
 Another limitation of traditional practices is the lack of real-time crop and soil feedback. Farmers typically make decisions based on past experience rather than live field data, which makes pesticide application reactive instead of preventive. This limits the ability to manage crop health efficiently and sustainably.
 
