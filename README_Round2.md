@@ -19,7 +19,7 @@ Planned features of the mobile application include:
 - Alerts and notifications for required intervention  
 - Overview of treated and untreated crop areas  
 
-The application will be designed with simplicity in mind so that farmers can easily understand and use it without technical expertise.
+The application will be designed with simplicity in mind so that farmers can easily understand and use it without technical proficiency.
 
 ---
 
