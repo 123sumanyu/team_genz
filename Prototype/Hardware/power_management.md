@@ -61,4 +61,4 @@ The current power management setup allows for future upgrades such as higher-cap
 
 ### `Summary`
 
-The power management system provides a stable, efficient, and safe energy supply for all system components. Its battery-powered and regulated design makes it suitable for real-world agricultural environments, supporting reliable operation, portability, and scalability for future needs.
+The power management system provides a stable, efficient, and safe energy supply for all system components. Its battery-powered and regulated design makes it suitable for real-world agricultural environments, supporting reliable operation, flexibility , and scalability for future needs.
