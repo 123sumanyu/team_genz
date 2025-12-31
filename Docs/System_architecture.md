@@ -66,3 +66,4 @@ This layer focuses on usability and clarity, ensuring that farmers with limited 
 The system architecture prioritizes simplicity, modularity, and affordability. Each layer is designed to function independently while integrating seamlessly with others. This approach allows future enhancements, such as expanded monitoring features or improved control logic, without requiring a complete redesign.
 
 Overall, the architecture supports precise operation, reduced chemical usage, and improved farmer awareness while remaining suitable for real-world agricultural conditions.
+
