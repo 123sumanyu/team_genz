@@ -11,3 +11,4 @@ Farmers largely depend on manual inspection to identify crop infections, which i
 Existing spraying systems and agricultural machines primarily focus on coverage rather than precision. Many available solutions are expensive, complex to operate, and designed for large-scale farming, making them unsuitable for small and medium-scale farmers. Additionally, most systems do not provide meaningful feedback or monitoring support to farmers, limiting their ability to make informed decisions.
 
 There is a clear need for a cost-effective and practical pesticide application solution that emphasizes on selective treatment, minimizes chemical wastage, supports soil health, and provides farmers with better visibility into crop conditions. Addressing these challenges is essential to improve farming efficiency, reduce environmental impact, and support sustainable agricultural practices.
+
