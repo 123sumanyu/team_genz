@@ -26,7 +26,7 @@ The system operates as a continuous cycle while moving through crop rows. Each p
    As the system moves, the camera captures images of plant leaves. These images are used to assess plant condition during operation.
 
 4. **Condition Evaluation**  
-   The captured images are processed to determine whether a plant requires treatment. If the plant appears healthy, the system continues moving without taking action.
+   The captured images are processed to determine whether a plant requires treatment or not. If the plant appears healthy, the system continues moving without taking action.
 
 5. **Decision Making**  
    If signs of infection are identified, the system decides whether pesticide spraying is required. The decision is based on observed plant condition.
@@ -63,7 +63,7 @@ The system operates as a continuous cycle while moving through crop rows. Each p
 
 - Operates in a continuous loop  
 - Spraying occurs only when required  
-- No action taken for healthy plants  
+- No action taken for healthy plants 
 - Designed to minimize chemical usage  
 - Supports real-time monitoring  
 
