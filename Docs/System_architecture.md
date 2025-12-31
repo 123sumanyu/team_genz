@@ -67,3 +67,4 @@ The system architecture prioritizes simplicity, modularity, and affordability. E
 
 Overall, the architecture supports precise operation, reduced chemical usage, and improved farmer awareness while remaining suitable for real-world agricultural conditions.
 
+
