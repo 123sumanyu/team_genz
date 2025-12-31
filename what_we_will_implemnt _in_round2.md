@@ -90,6 +90,9 @@ The Round 2 implementation will move the project closer to real-world usability 
 
 ---
 
+## Additional Feature 
+All code related to the Core Processing Unit will be integrated in this module. It acts as a central bridge between the mobile application and various hardware and software components, such as the video-streaming camera. This module also includes the complete implementation of the Machine Learning model, which is responsible for analyzing plant data and detecting the severity of plant diseases.
+
 ## Conclusion
 
 Round 2 focuses on transforming the current prototype into a complete and practical solution. By adding monitoring, data management, and user interaction layers, the project aims to provide farmers with better control, visibility, and confidence in managing crop health efficiently and sustainably.
