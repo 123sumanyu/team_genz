@@ -4,7 +4,7 @@
 
 ## Objective of Round 2
 
-The goal of Round 2 is to expands  the current working prototype into a complete, end-to-end farming support system. While the initial phase focuses on selective pesticide spraying using a mobile platform, the next round aims to provide farmers with a full software ecosystem that includes monitoring, control, and data-driven decision support.
+ While the initial phase focuses on selective pesticide spraying, the next round aims to provide farmers with a full software ecosystem that includes monitoring, control, and data-driven decision support.
 
 ---
 
@@ -17,7 +17,8 @@ Planned features of the mobile application include:
 - Soil condition reports and historical trends  
 - System status and operational updates  
 - Alerts and notifications for required intervention  
-- Overview of treated and untreated crop areas  
+- Overview of treated and untreated crop areas
+- Live video Feed Will be Shared Contniously
 
 The application will be designed with simplicity in mind so that farmers can easily understand and use it without technical proficiency.
 
@@ -59,7 +60,6 @@ Planned improvements:
 - Improved power efficiency and battery management  
 - Better enclosure and weather protection  
 - Cleaner wiring and modular hardware layout  
-- Enhanced sensor placement for improved readings  
 
 These changes aim to improve durability and usability in real farming conditions.
 
@@ -70,8 +70,7 @@ These changes aim to improve durability and usability in real farming conditions
 The Round 2 system will be designed to support future scalability.
 
 Planned expansion capabilities:
-- Support for multiple fields or plots  
-- Ability to handle more sensors and devices  
+
 - Preparation for additional crop types  
 - Modular software design for easy upgrades  
 
@@ -82,7 +81,7 @@ This ensures the solution can grow beyond a single prototype deployment.
 ## Expected Outcome
 
 By the end of Round 2, the project aims to deliver:
-- A complete working system with hardware and software integration  
+
 - A farmer-friendly mobile application  
 - Reliable data monitoring and reporting  
 - A scalable foundation for future development  
