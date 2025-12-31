@@ -4,7 +4,7 @@
 
 ### `Core Processing Components`
 
-- **Single Board Computer**  
+- **Raspberry Pi**  
   Used as the main processing unit for handling image input, decision logic, and system coordination.
 
 - **Microcontroller Board**  
@@ -93,3 +93,4 @@
 ### `Notes`
 
 All components are selected with affordability, availability, and ease of replacement in mind. The system is designed to be assembled using commonly available parts to ensure practicality for real-world agricultural use .
+
