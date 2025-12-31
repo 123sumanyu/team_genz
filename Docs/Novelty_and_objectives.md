@@ -28,3 +28,4 @@ Cost-effectiveness and ease of use are key objectives of the system. The project
 
 Overall, the objective is to provide farmers with a reliable, practical, and farmer-friendly solution that improves efficiency, reduces effort, and supports long-term agricultural sustainability.
 
+
