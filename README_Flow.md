@@ -35,7 +35,7 @@ The system operates as a continuous cycle while moving through crop rows. Each p
    When treatment is required, the spraying mechanism is activated. A relay switches on the pumping motor, allowing pesticide to be sprayed through the nozzles. Only the affected plant area is treated.
 
 7. **Soil Condition Monitoring**  
-   Soil sensors collect data related to soil condition during operation. This data is recorded for monitoring and future reference.
+   Soil sensors collect required data related to soil condition during operation. This data is recorded for monitoring and future reference.
 
 8. **Data Reporting**  
    Information such as crop condition, soil readings, and system activity is sent to the monitoring interface. This allows farmers to stay informed without being present in the field.
