@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "955512461911",
+    "firebase_url": "https://astra-farm-robot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "astra-farm-robot",
+    "storage_bucket": "astra-farm-robot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955512461911:android:9c0534679f5d217b11e112",
+        "android_client_info": {
+          "package_name": "com.example.brahmastra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZfZtDxZ1n4-EAsmMwhNigwymVwWnnJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955512461911:android:7f2296fffd27e94911e112",
+        "android_client_info": {
+          "package_name": "com.example.brahmastra2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZfZtDxZ1n4-EAsmMwhNigwymVwWnnJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955512461911:android:fc7e373fc93f413711e112",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZfZtDxZ1n4-EAsmMwhNigwymVwWnnJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
