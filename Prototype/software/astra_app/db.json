@@ -1,0 +1,54 @@
+{
+  "robot": {
+    "dashboard": {
+      "robotBattery": 78,
+      "totalPlants": 250,
+      "affectedPlants": 12,
+      "diseasesDetected": 3,
+      "pesticideLeft": 45
+    },
+    "location": {
+      "latitude": 30.733315,
+      "longitude": 76.779419
+    },
+    "soil-health": {
+      "moisture": 0.65,
+      "ph": 6.8,
+      "nitrogen": "Medium",
+      "potassium": "High"
+    },
+    "plant-stats": {
+      "plant_001": {
+        "name": "Tomato Row A-1",
+        "disease": "Early Blight",
+        "severity": 0.45
+      },
+      "plant_002": {
+        "name": "Tomato Row A-2",
+        "disease": "Healthy",
+        "severity": 0.0
+      },
+      "plant_003": {
+        "name": "Wheat Block C",
+        "disease": "Yellow Rust",
+        "severity": 0.85
+      },
+      "plant_004": {
+        "name": "Potato Row B",
+        "disease": "Late Blight",
+        "severity": 0.2
+      }
+    }
+  },
+  "users": {
+    "dummy_user_id_1": {
+      "uid": "dummy_user_id_1",
+      "email": "demo@astra.com",
+      "farmerName": "Demo Farmer",
+      "phoneNumber": "+91 9876543210",
+      "role": "Farmer",
+      "photoUrl": "",
+      "joinedAt": 1700000000000
+    }
+  }
+}
