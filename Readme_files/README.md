@@ -59,8 +59,11 @@ intelligent-pesticide-sprinkler/
 │   ├── hardware/
 │   ├── software/
 │   └── ml/
-├── mobile_app/
-├── backend/
+├── APP/
+│   ├── app_code/
+│   ├── app_screenshot/
+|---Readme_file
+
 ```
 
 ---
